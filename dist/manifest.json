@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "learn-extension",
+    "description": "Learn Extension.",
+    "version": "1.0.0",
+    "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "Learn Extension",
+    "default_popup": "popup.html"
+  }
+}
